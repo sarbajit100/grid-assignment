@@ -1,0 +1,12 @@
+1.What is the grid?
+Ans. A grid is a two-dimensional layout system that separates a page into major sections. 
+It consists of a grid container and grid items, and allows you to create complex and flexible grid-based layouts.
+
+2. What is the difference between Flex and grid?
+Ans. CSS Grid is better suited for creating two-dimensional layouts, while CSS Flexbox is better for one-dimensional designs.
+
+3. How can you define rows and columns for your grid?
+Ans. We define rows and columns on our grid with the grid-template-rows and grid-template-columns properties. These define grid tracks. A grid track is the space between any two adjacent lines on the grid.
+
+4. List any two properties of the grid item and grid container?
+Ans. justify-items , align-items , justify-content , align-content , justify-self , and align-self
